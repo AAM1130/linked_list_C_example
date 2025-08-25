@@ -22,7 +22,4 @@ void printList(Node* head);
 void deleteNode(Node** head, int valueToDelete);
 void freeList(Node* head);
 
-// remove all references to head node and change to head pointer....
-// add insertAtPosition(Node* head, int position, int value.
-
 #endif //LINKED_LISTS_LINKEDLIST_H
